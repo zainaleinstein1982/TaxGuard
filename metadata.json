@@ -1,0 +1,6 @@
+{
+  "name": "TaxGuard — Agents for Humans",
+  "description": "Self-running interactive web demo and executive command center for TaxGuard, built with Strands Agents SDK and Amazon Bedrock AgentCore for the Agents for Humans Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
